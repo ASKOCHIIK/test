@@ -17,3 +17,8 @@ class Altyna:
         return  x
 altyna = Altyna
 print(altyna.word('Akulya'))
+
+def my_name(x, y):
+    return  x + 20
+
+print(my_name(10, 20))

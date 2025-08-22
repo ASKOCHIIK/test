@@ -1,4 +1,4 @@
-class Test:
+cclass Test:
     def test(self, x):
         return x
 

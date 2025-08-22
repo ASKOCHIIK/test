@@ -17,3 +17,11 @@ class Altyna:
         return  x
 altyna = Altyna
 print(altyna.word('Akulya'))
+
+
+class Kuba:
+    def word(self,x):
+        return x
+kuba = Kuba
+print(kuba.word('Lyuba'))
+

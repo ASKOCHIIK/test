@@ -17,3 +17,11 @@ class Altyna:
         return  x
 altyna = Altyna
 print(altyna.word('Akulya'))
+
+class Kairat:
+    def User(self, name, lastname):
+        self.n = name
+        self.l = lastname
+
+n = Kairat.User('kairat', 'ajybaev')
+print(n)

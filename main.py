@@ -17,3 +17,11 @@ class Altyna:
         return  x
 altyna = Altyna
 print(altyna.word('Akulya'))
+
+
+b = 'Nazik'
+test = Test
+print(b.t(209, 274))
+print(test.test('priveeeeeet'))
+
+

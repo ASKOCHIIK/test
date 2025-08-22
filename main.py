@@ -17,3 +17,14 @@ class Altyna:
         return  x
 altyna = Altyna
 print(altyna.word('Akulya'))
+
+class DONIKO:
+    def __init__(self, name):
+        self.name = name
+
+    def get_info(self):
+        return self.name
+
+D = DONIKO('Daniel')
+print(D.get_info())
+

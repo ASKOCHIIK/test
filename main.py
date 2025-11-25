@@ -22,3 +22,32 @@ def my_name(x, y):
     return  x + 20
 
 print(my_name(10, 20))
+
+
+print(
+      'fghjk'
+      'hjgfds'
+      'hjghfgfx'
+      'ghj'
+      'gfh'
+      'fghx'
+      'hfx'
+      'g'
+      'gfhdj'
+      'gfj'
+      'g'
+      'gdfj'
+      'gfdj'
+      'gdfj'
+      ''
+      'gdfjgjdf'
+      'dgj'
+      'fjdg'
+      'fgfjd'
+      'jft'
+      'jft'
+      'jgf'
+      'jgf'
+      ''
+      'jgf'
+      'gfj')
